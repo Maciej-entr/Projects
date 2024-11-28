@@ -1,0 +1,12 @@
+*{
+    background: black;
+}
+.App{
+    background: black;
+    color: rgb(0, 0, 0);
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-size: 100%;
+}

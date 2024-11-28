@@ -1,0 +1,20 @@
+.container{
+    margin: auto;
+    color: white;
+    background: black;
+    max-width: 600px;
+}
+.socials a img{
+    width: 30px;
+    display: inline;
+    margin-left:10px;
+    margin-right: 10px;
+}
+.about{
+display: flex;
+gap: 50px;
+}
+.container img{
+    border-radius: 50%;
+    width: 300px;
+}
